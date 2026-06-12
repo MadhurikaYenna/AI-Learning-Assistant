@@ -1,0 +1,8 @@
+streamlit
+bcrypt
+fpdf
+plotly
+pandas
+google-generativeai
+pypdf
+scikit-learn
